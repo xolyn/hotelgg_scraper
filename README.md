@@ -6,3 +6,5 @@
 2. HTML 429 might appear, to address this, manually do the verification. You only need to do this once, this will last up to 30 minutes.
 
 3. Only suitable for hotel list page.
+
+4. Once everything checked, run `main.py`
