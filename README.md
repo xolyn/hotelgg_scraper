@@ -7,4 +7,4 @@
 
 3. Only suitable for hotel list page.
 
-4. Once everything checked, run `main.py`
+4. Once everything is checked, run `main.py`
